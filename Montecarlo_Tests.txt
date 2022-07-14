@@ -1,0 +1,14 @@
+PS C:\Users\bella\Documents\Project> python Montecarlo_Tests.py >> Montecarlo_Tests.txt
+test_1_jackpot (__main__.AnalyzerTestSuite) ... ok
+test_2_combo (__main__.AnalyzerTestSuite) ... ok
+test_3_face_counts_per_roll (__main__.AnalyzerTestSuite) ... ok
+test_1_change_the_weight (__main__.DieTestSuite) ... ok
+test_2_roll (__main__.DieTestSuite) ... ok
+test_3_show (__main__.DieTestSuite) ... ok
+test_1_play (__main__.GameTestSuite) ... ok
+test_2_show (__main__.GameTestSuite) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 4.254s
+
+OK
